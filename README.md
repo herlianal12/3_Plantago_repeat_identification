@@ -1,4 +1,4 @@
-# Plantago ovata repeat content
+# *Plantago ovata* repeat content
 
 source: https://www.biostars.org/p/411101/ tutorial for repeat
 
