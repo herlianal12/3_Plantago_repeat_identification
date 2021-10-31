@@ -2,6 +2,9 @@
 
 source: https://www.biostars.org/p/411101/ tutorial for repeat
 
+Repeats were identified using RepeatModeler v2.6.1 (https://www.repeatmasker.org/RepeatModeler/)  and calculated by RepeatMasker v4.1.1 (https://www.repeatmasker.org/RepeatMasker/)
+
+
 **Main stages:**
 1. Obtaining Dfam library
 2. Building database using RepeatModeler
