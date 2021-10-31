@@ -8,7 +8,7 @@ source: https://www.biostars.org/p/411101/ tutorial for repeat
 3. Filtering repeats
 4. RepeatMasker
 
-**Step 1. Obtaining Dfam library and updating RepeatMasker library**
+**Step 1. Obtaining Dfam library**
 ```
 wget https://www.dfam.org/releases/Dfam_3.2/families/Dfam.h5.gz
 gunzip Dfam.h5.gz
